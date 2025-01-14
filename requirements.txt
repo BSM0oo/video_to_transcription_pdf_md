@@ -1,0 +1,8 @@
+Pillow
+pytesseract
+pyperclip
+
+# The following need to be installed via brew:
+# brew install imagemagick
+# brew install ffmpeg
+# brew install tesseract
