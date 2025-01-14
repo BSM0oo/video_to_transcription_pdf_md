@@ -1,6 +1,6 @@
-Pillow
-pytesseract
-pyperclip
+Pillow>=10.0.0
+pytesseract>=0.3.10
+pyperclip>=1.8.2
 
 # The following need to be installed via brew:
 # brew install imagemagick
